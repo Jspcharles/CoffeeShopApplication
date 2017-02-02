@@ -1,0 +1,1 @@
+kaffeine.coffee.shop.SortByPrefernce

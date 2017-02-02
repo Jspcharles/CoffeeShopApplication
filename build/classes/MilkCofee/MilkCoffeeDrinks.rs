@@ -1,0 +1,12 @@
+MilkCofee.MilkCoffeeDrinks$flag
+MilkCofee.MilkCoffeeDrinks$1
+MilkCofee.MilkCoffeeDrinks$2
+MilkCofee.Status
+MilkCofee.MilkCoffeeDrinks$7
+MilkCofee.MilkCoffeeDrinks$8
+MilkCofee.MilkCoffeeDrinks$9
+MilkCofee.MilkCoffeeDrinks
+MilkCofee.MilkCoffeeDrinks$3
+MilkCofee.MilkCoffeeDrinks$4
+MilkCofee.MilkCoffeeDrinks$5
+MilkCofee.MilkCoffeeDrinks$6

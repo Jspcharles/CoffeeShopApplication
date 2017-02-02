@@ -1,0 +1,12 @@
+kaffeine.coffee.shop.CoffeeDrinks$1
+kaffeine.coffee.shop.Status
+kaffeine.coffee.shop.CoffeeDrinks$9
+kaffeine.coffee.shop.CoffeeDrinks$8
+kaffeine.coffee.shop.CoffeeDrinks$10
+kaffeine.coffee.shop.CoffeeDrinks$7
+kaffeine.coffee.shop.CoffeeDrinks$6
+kaffeine.coffee.shop.CoffeeDrinks$5
+kaffeine.coffee.shop.CoffeeDrinks$4
+kaffeine.coffee.shop.CoffeeDrinks$3
+kaffeine.coffee.shop.CoffeeDrinks
+kaffeine.coffee.shop.CoffeeDrinks$2
